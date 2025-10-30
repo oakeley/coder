@@ -1,0 +1,4 @@
+requests>=2.31.0
+ollama>=0.1.0
+gitpython>=3.1.40
+prompt-toolkit>=3.0.43
